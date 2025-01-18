@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 50px ;
+    width: 100%vh;
+    background-color: pink;
+    border-radius: 2px;
+    border: 2px solid red;
+
+}
+ul li  {
+    display: inline-block;
+    margin: 0 100px;
+    line-height: 40px;
+    font-size: 20px;
+
+}
+li a{
+    text-decoration: none;
+
+}
+h2{
+    display:flex;
+    justify-content: center;
+}
+.card1{
+     
+}
